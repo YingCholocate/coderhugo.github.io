@@ -1,0 +1,1 @@
+import{G as e}from"./GridCateory-fe0a0efc.js";import{d as _,c as o,k as t,o as a,_ as s}from"./index-cfb566db.js";const r={class:"container"},c=_({__name:"ThreeDPage",setup(n){return(d,p)=>(a(),o("div",r,[t(e)]))}});const l=s(c,[["__scopeId","data-v-4015d320"]]);export{l as default};
